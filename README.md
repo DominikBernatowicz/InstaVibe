@@ -4,6 +4,10 @@
 
 InstaVibe to aplikacja do zarządzania postami w stylu Instagram, która pozwala użytkownikom na dodawanie zdjęć, opisów i hashtagów. Użytkownicy mogą przeglądać, polubić, edytować i usuwać swoje posty, co umożliwia łatwe zarządzanie treściami oraz interakcję z innymi użytkownikami. Aplikacja oferuje intuicyjny interfejs i responsywny design, zapewniając płynne doświadczenie na różnych urządzeniach.
 
+![alt text](public/assets/images/image-1.png)
+![alt text](public/assets/images/image-2.png)
+![alt text](public/assets/images/image-3.png)
+
 ## Technologie
 
 - **React**: Biblioteka do budowy interfejsu użytkownika.
